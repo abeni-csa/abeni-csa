@@ -16,7 +16,7 @@ I'm a passionate software developer with expertise in Rust, Python, and Django. 
 ## 🔭 Current Projects
 
 - **[Project 1](https://github.com/abeni-csa/#)**: A Rust-based web application
-- **[Project 2](https://github.com/abeni-csa/project2)**: A Django-based API service
+- **[Project 2](https://github.com/abeni-csa/#)**: A Django-based API service
 
 ## 🌱 Learning & Growth
 
