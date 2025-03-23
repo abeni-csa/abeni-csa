@@ -5,17 +5,17 @@ I'm a passionate software developer with expertise in Rust, Python, and Django. 
 - 👋 Hi, I’m @abeni-csa
 - 👀 I’m interested in fun Open sorce prjects 
 - 🌱 I’m currently learning MS and Actix
-- ⚡ Fun fact: i like my termianl and 
+- ⚡ Fun fact: i like my termianl and astronomy 
 ## 🛠 Technologies & Tools
 
 - **Languages**: Rust, Python
-- **Frameworks**: Django, Flask
-- **Databases**: PostgreSQL, SQLite
-- **Tools**: Git, Docker, hx 
+- **Frameworks**: actix_web, Django, dioxus 
+- **Databases**:  surrealDB, PostgreSQL, libSQL
+- **Tools**: Git, helix, podman sometimes docker
 
 ## 🔭 Current Projects
 
-- **[Project 1](https://github.com/abeni-csa/project1)**: A Rust-based web application
+- **[Project 1](https://github.com/abeni-csa/#)**: A Rust-based web application
 - **[Project 2](https://github.com/abeni-csa/project2)**: A Django-based API service
 
 ## 🌱 Learning & Growth
