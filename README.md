@@ -25,8 +25,8 @@ I'm a passionate software developer with expertise in Rust, Python, and Django. 
 
 ## 📫 How to reach me
 
-- **Email**: abenenezerhaymanot.com
-- **LinkedIn**: [linkedin.com/in/abeni](https://linkedin.com/in/abeni_csa)
+- **Email**: abenenezerhaymanot@gmail.com
+- **LinkedIn**: @abeni_csa[](https://linkedin.com/in/abeni_csa)
 - **Instagram**:  [@abeni_csa](https://instagram.com/abeni_csa)
 - **X**:  [@abeni_csa](https://x.com/abeni_csa)
 ## 💬 Let's Connect
